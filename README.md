@@ -1,4 +1,4 @@
-#Bank Customers Segmentation using Unsupervised Learning
+Bank Customers Segmentation using Unsupervised Learning
 
 We develop a customer segmentation to define marketing strategy. Following Unsupervised Learning Methods are used.
 1. K-Means Clustering (K is chosen by elbow method)
