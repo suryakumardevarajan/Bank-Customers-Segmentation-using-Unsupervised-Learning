@@ -6,8 +6,7 @@ We develop a customer segmentation to define marketing strategy. Following Unsup
 3. Autoencoders. In which, encoders are used as Dimensionality reduction.
 
 
-The
-sample Dataset summarizes the usage behavior of about 8950 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
+The sample Dataset summarizes the usage behavior of about 8950 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. The dataset is available here -> https://www.kaggle.com/arjunbhasin2013/ccdata . The project is a task from the course Python and Machine Learning for Financial Analysis on Udemy
 
 Following is the Data Dictionary for Credit Card dataset :-
 
